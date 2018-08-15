@@ -8,7 +8,9 @@ git init
 :: Under Code Add Projects
 git add .
 :: git commit -m "first commit"
-git commit -m "second commit"
-git remote add origin https://github.com/BenYang77/DemoUnitTestProject1.git
+:: git commit -m "second commit"
+git commit -m "third commit"
+:: git remote add origin https://github.com/BenYang77/DemoUnitTestProject1.git
+git remote add origin https://gitforbinrueiyang.visualstudio.com/DemoUnitTestProject/DemoUnitTestProject%20Team/_git/DemoUnitTestProject
 git remote -v
 git push -u origin master
