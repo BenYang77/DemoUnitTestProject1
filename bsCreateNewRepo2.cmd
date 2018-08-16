@@ -16,4 +16,4 @@ git remote add origin https://github.com/BenYang77/DemoUnitTestProject1.git
 :: git remote add origin https://gitforbinrueiyang.visualstudio.com/DemoUnitTestProject/DemoUnitTestProject%20Team/_git/DemoUnitTestProject
 :: git remote -v
 :: git push -u origin master
-git push -u origin debug
+git push -u origin bugfix
