@@ -42,7 +42,7 @@ git commit -m "%today% commit. purpose ： %*"
 git remote add origin %originPath%
 :: git remote -v
 :: git push -u origin master
-git push -u origin master
+git push -u origin bugfix
 EXIT /B 0
 
 :getToday
