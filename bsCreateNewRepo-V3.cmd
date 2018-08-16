@@ -40,8 +40,8 @@ git commit -m "%today% commit. purpose ： %*"
 
 :: git remote add origin https://gitforbinrueiyang.visualstudio.com/DemoUnitTestProject/DemoUnitTestProject%20Team/_git/DemoUnitTestProject
 git remote add origin %originPath%
-git remote -v
-::git push -u origin master
+:: git remote -v
+:: git push -u origin master
 git push -u origin master
 EXIT /B 0
 
