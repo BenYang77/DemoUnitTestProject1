@@ -18,3 +18,8 @@
 #  Reason : change Batch Script info2  
  
  
+### DemoUnitTestProject 20180816 17:11:03.55 
+# Purpose : change Batch Script info 
+#  Reason : user do not see how to use it  
+ 
+ 
